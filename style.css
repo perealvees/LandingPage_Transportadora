@@ -110,7 +110,7 @@ footer{
         top: 70px;
         left: -40%;
         background-color: #c98940;
-        height: 89vh;
+        height: 80vh;
         width: 40%;
         text-align: center;
         display: block;
@@ -120,10 +120,7 @@ footer{
     nav ul.open{
         left: 0;
     }
-    nav ul li{
-       
-        
-    }
+
     nav ul li a {
         font-size: 20px;
         color: #ffffff;
@@ -134,6 +131,10 @@ footer{
         color: #ffffff;
     }
 
+    .container {
+        width: 100vw;
+        height: 100vh;
+    }
 
     /*imagem do caminhão não aparecer*/
    .foto img {
