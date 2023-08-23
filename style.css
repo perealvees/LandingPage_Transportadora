@@ -93,7 +93,7 @@ a:hover{
 footer{
     text-align: center;
     font-weight: bold;
-    background-color: rgb(223, 197, 111);
+    background-color: #E2B67E;
     height: 25px;
     align-items: center;
 }
@@ -108,9 +108,9 @@ footer{
     nav ul{
         position: fixed;
         top: 70px;
-        left: -40%;
+        left: -80%;
         background-color: #c98940;
-        height: 80vh;
+        height: 70vh;
         width: 40%;
         text-align: center;
         display: block;
