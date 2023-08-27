@@ -1,2 +1,2 @@
 # LandingPage_transportadora
-landing page desdenvolvida para pratica de aprenziado
+landing page desenvolvida para prática de CSS e layout responsivo
